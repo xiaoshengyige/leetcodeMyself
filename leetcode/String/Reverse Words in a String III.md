@@ -1,3 +1,4 @@
+'''java
 public class Solution {
     public String reverseWords(String str) {
         	if ((str != null) && (str.trim() != "")) {
@@ -28,3 +29,4 @@ public class Solution {
 		return singleStr;
 	}
 }
+'''
